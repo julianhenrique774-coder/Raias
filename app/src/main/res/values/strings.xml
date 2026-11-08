@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Permite que o Agente Android leia a tela e execute toques, rolagens e digitação para cumprir tarefas que você pedir.</string>
+</resources>
